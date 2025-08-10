@@ -16,7 +16,7 @@ If you find it useful, don’t forget to suggest this repo to others.
 3. Customize colors, fonts, and layout to match your style.
 4. 👩‍💻 About the Author
 
-Hi, I’m Anisa Binte Faruk — a front-end enthusiast who enjoys building clean, unique, and reusable UI components with pure HTML & CSS.
+Hi, I’m Anisa Binte Faruk — a full stack developer who loves making sure the front-end is as clean, unique, and visually satisfying as the backend is functional.
 
 
 ---
